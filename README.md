@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , i'm <a href="https://github.com/LAUTA02AP">Lautaro Pomba</a>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
 <!--
 **LAUTA02AP/LAUTA02AP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
