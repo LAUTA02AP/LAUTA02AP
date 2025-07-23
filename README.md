@@ -35,46 +35,18 @@ I’m a programming technician passionate about continuous learning and professi
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/lautaro-pomba-abab77227/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="linkedin" />
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="48" height="48" alt="linkedin" />
   </a>
   
- <a href="mailto:lautaro2002ap@gmail.com" target="_blank" rel="noopener noreferrer">
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lautaro2002ap@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Gmail" width="48" height="48" />
 </a>
- target="_blank" rel="noopener noreferrer">
-    <img src= width="48" height="48" alt="linkedin" />
-  </a>
-  <a href="https://www.linkedin.com/in/lautaro-pomba-abab77227/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="linkedin" />
-  </a>
-  <a href="https://www.linkedin.com/in/lautaro-pomba-abab77227/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="linkedin" />
-  </a>
 
-  
+  <a href="https://www.instagram.com/lauti_pomba/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="48" height="48" alt="instagram" />
+  </a>
 </p>
-
-</p> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 <!--
 **LAUTA02AP/LAUTA02AP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
