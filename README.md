@@ -13,6 +13,26 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
 I’m a programming technician passionate about continuous learning and professional growth. I recently completed a technical degree, gaining skills in backend, frontend, and database management. I'm eager to explore new technologies, face new challenges, and share what I learn along the way. Let’s connect and grow together!
 </p>
 
+## 🖥️ Used technologies :
+<p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastApi"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="html"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="Python"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="git"/>
+</p>
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **LAUTA02AP/LAUTA02AP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
