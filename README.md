@@ -5,7 +5,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
     <li>👨‍💻 I'm a <b>Programming Technician</b></li>
     <li>📍 Based in <b>Villa María, Córdoba</b></li>
-    <li>🧑‍🎓I studied a <b>Technical</b>Degree in Programming.
+    <li>🧑‍🎓I studied a <b>Technical Degree</b> in Programming.
     <li>🎯 Seeking my first opportunity in the tech industry.</li>
     <li>🌱I'm learning to grow as a professional.</li>
     <li>💡I have a strong interest in <b>Python</b> and web development</li>
