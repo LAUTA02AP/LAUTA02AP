@@ -9,7 +9,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>🌱I'm learning to grow as a professional.</li>
     <li>💡I have a strong interest in <b>Python</b> and web development</li>
   </ul>
-I’m a programming technician passionate about continuous learning and professional growth. I recently completed a technical degree, gaining skills in backend, frontend, and database management.I'm eager to explore new technologies, face new challenges, and share what I learn along the way. <br>Let’s connect and grow together!
+I’m a programming technician passionate about continuous learning and professional growth. I recently completed a technical degree, gaining skills in backend, frontend, and database management.I'm eager to explore new technologies, face new challenges, and share what I learn along the way. <br>Let's connect and build together.
 </p>
 
 ## 🖥️ Used technologies :
