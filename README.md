@@ -24,10 +24,10 @@ I’m a programming passionate about continuous learning and professional growth
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="git"/>
 </p>
 
-## 📊 Github Stats aa
+## 📊 Github Stats
 <p>
   <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAUTA02AP&layout=compact&show_icon=true&theme=algolia" alt="LAUTA02AP-langs"/>
+ 
     
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=LAUTA02AP&layout=compact&show_icon=true&theme=algolia" alt="LAUTA02AP-stats"/>
 </div>
