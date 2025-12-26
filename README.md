@@ -27,7 +27,8 @@ I’m a programming passionate about continuous learning and professional growth
 ## 📊 Github Stats
 <p>
   <div align="center">
- 
+    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAUTA02AP&layout=compact&show_icon=true&theme=algolia" alt="LAUTA02AP-langs"/>
     
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=LAUTA02AP&layout=compact&show_icon=true&theme=algolia" alt="LAUTA02AP-stats"/>
 </div>
